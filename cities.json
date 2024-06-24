@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "1f32",
+      "cityName": "Blascosancho",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-23T14:30:22.943Z",
+      "notes": "",
+      "position": {
+        "lat": "40.245991504199026",
+        "lng": "-9.975585937500002"
+      }
+    },
+    {
+      "id": "47a4",
+      "cityName": "les Escaldes",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-06-23T14:30:39.833Z",
+      "notes": "",
+      "position": {
+        "lat": "42.45588764197166",
+        "lng": "1.5820312500000002"
+      }
+    },
+    {
+      "id": "3347",
+      "cityName": "Andorra la Vella",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-06-23T14:30:45.438Z",
+      "notes": "",
+      "position": {
+        "lat": "42.5034904213673",
+        "lng": "1.5161132812500002"
+      }
+    },
+    {
+      "id": "7a88",
+      "cityName": "Alcaudete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-23T14:31:25.565Z",
+      "notes": "",
+      "position": {
+        "lat": "37.63163475580645",
+        "lng": "-4.108886718750001"
+      }
+    }
+  ]
+}
