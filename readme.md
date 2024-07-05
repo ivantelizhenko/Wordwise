@@ -6,6 +6,8 @@ Good example of:
 
 -useReducer hook
 
+-CSS modules
+
 -Leaflet Library
 
 -Fake API
